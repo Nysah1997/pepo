@@ -1,0 +1,809 @@
+{
+  "1366547765810692156": {
+    "name": ".Cyprian",
+    "total_time": 7202.147386000001,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:09:00.552335",
+        "end": "2025-08-02T23:09:00.797389",
+        "duration": 3600.245041,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:09:18.751189",
+        "end": "2025-08-02T23:22:20.653549",
+        "duration": 781.902345,
+        "date": "2025-08-02"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "pre_register_initiator": {
+      "admin_id": 1366547765810692156,
+      "admin_name": ".Cyprian",
+      "timestamp": "2025-08-02T15:33:33.364438"
+    },
+    "daily_times": {
+      "2025-08-02": 7202.147386000001
+    },
+    "last_start": "2025-08-02T23:09:18.751189",
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "339510350581858304": {
+    "name": "Chimi",
+    "total_time": 7231.317886,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:09:13.554306",
+        "end": "2025-08-03T00:09:44.872214",
+        "duration": 7231.317886,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-01": 3650.530248,
+      "2025-08-03": 7231.317886
+    },
+    "milestone_1h_completed": true,
+    "last_start": "2025-08-02T22:09:13.554306",
+    "milestone_2h_completed": true
+  },
+  "729772994519367761": {
+    "name": "'Bren🎀",
+    "total_time": 7240.785152,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:09:08.109159",
+        "end": "2025-08-02T23:10:00.798354",
+        "duration": 3652.689183,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:10:56.782073",
+        "end": "2025-08-03T00:10:44.878056",
+        "duration": 3588.095969,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3652.689183,
+      "2025-08-03": 3588.095969
+    },
+    "last_start": "2025-08-02T23:10:56.782073",
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "574356960011354122": {
+    "name": "narniano21",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3659.98359,
+      "2025-08-03": 3587.600446
+    },
+    "milestone_2h_completed": true
+  },
+  "671353988914085920": {
+    "name": "yoOsepp",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3659.989476,
+      "2025-08-03": 3555.189433
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "720091513056395344": {
+    "name": "Noamsito18",
+    "total_time": 7241.286863,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:00:00.811177",
+        "end": "2025-08-02T23:01:00.805400",
+        "duration": 3659.994203,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:03:03.610730",
+        "end": "2025-08-03T00:02:44.903402",
+        "duration": 3581.29266,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "last_start": "2025-08-02T23:03:03.610730",
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3659.994203,
+      "2025-08-03": 3581.29266
+    },
+    "milestone_2h_completed": true
+  },
+  "408366638547861507": {
+    "name": "-Sasha-",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3645.925378
+    },
+    "milestone_1h_completed": true
+  },
+  "712880501987213405": {
+    "name": "karlizzyy",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3630.5241929999997
+    },
+    "milestone_1h_completed": true
+  },
+  "899507756602626098": {
+    "name": "-Felipe:.",
+    "total_time": 7235.138794,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:00:00.811177",
+        "end": "2025-08-02T23:01:00.809928",
+        "duration": 3659.998731,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:02:09.734940",
+        "end": "2025-08-03T00:01:44.875025",
+        "duration": 3575.140063,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "last_start": "2025-08-02T23:02:09.734940",
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3659.998731,
+      "2025-08-03": 3575.140063
+    },
+    "milestone_2h_completed": true
+  },
+  "751964672605028374": {
+    "name": "Nicole1312",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3660.004544,
+      "2025-08-03": 3564.250977
+    },
+    "milestone_2h_completed": true
+  },
+  "512470195411877895": {
+    "name": "DjPiPeXGol",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.216537,
+      "2025-08-03": 3570.832951
+    },
+    "milestone_2h_completed": true
+  },
+  "1285380025578819645": {
+    "name": "X1C0AlB0",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 851.168662
+    }
+  },
+  "1233929614703857684": {
+    "name": "flaka=D",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.221819
+    }
+  },
+  "751649125342249111": {
+    "name": "rav-.-",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.226767
+    }
+  },
+  "1299893054416752732": {
+    "name": "twenty_",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.231872
+    }
+  },
+  "1175926317259178141": {
+    "name": "DevilHeart",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.236968
+    }
+  },
+  "1301765417638957066": {
+    "name": "Paulii.",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.242195,
+      "2025-08-03": 3557.869206
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "666093061251661824": {
+    "name": "Val!",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.247446,
+      "2025-08-03": 3562.03354
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "661046205698015252": {
+    "name": "Alexissperezz",
+    "total_time": 7209.723163,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:00:01.817204",
+        "end": "2025-08-02T23:01:02.064012",
+        "duration": 3660.246789,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:04:36.615739",
+        "end": "2025-08-03T00:03:46.092149",
+        "duration": 3549.476374,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "last_start": "2025-08-02T23:04:36.615739",
+    "daily_times": {
+      "2025-08-02": 3660.246789,
+      "2025-08-03": 3549.476374
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "1381134082431258624": {
+    "name": "-:.AnabellaV.:-",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3660.252618,
+      "2025-08-03": 3553.269675
+    },
+    "milestone_2h_completed": true
+  },
+  "623312130636251167": {
+    "name": "anamaria04",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.46505
+    }
+  },
+  "656234435888283698": {
+    "name": "pato1724",
+    "total_time": 7212.37365,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:00:01.817204",
+        "end": "2025-08-02T23:01:03.288170",
+        "duration": 3661.470954,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:10:36.402290",
+        "end": "2025-08-02T23:59:47.305017",
+        "duration": 2950.902696,
+        "date": "2025-08-02"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 7212.37365
+    },
+    "last_start": "2025-08-02T23:10:36.402290",
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "671478351432646676": {
+    "name": "Patatus",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.478467
+    },
+    "milestone_1h_completed": true
+  },
+  "1330395784545435651": {
+    "name": "nandoms",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.487619
+    },
+    "milestone_1h_completed": true
+  },
+  "788063635846070303": {
+    "name": "-:=NEMESIS=:-",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.496147
+    },
+    "milestone_1h_completed": true
+  },
+  "1369833595879030816": {
+    "name": "Siakam",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.501914,
+      "2025-08-03": 3567.611315
+    },
+    "milestone_2h_completed": true
+  },
+  "1258491145508491320": {
+    "name": "Tamy.13",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.508908
+    }
+  },
+  "614142568728494120": {
+    "name": "trabajosrey",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3661.514803
+    }
+  },
+  "1376953762866004060": {
+    "name": "BADBOY_1911",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.538463
+    },
+    "milestone_1h_completed": true
+  },
+  "1372635902504992879": {
+    "name": ".MrChampions",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3661.54533
+    },
+    "milestone_1h_completed": true
+  },
+  "1401026584131014687": {
+    "name": "CHABODEL8",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3662.757549,
+      "2025-08-03": 3554.97106
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "1398482497930530956": {
+    "name": "yecid101",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3662.765068
+    }
+  },
+  "1381547949317820559": {
+    "name": "Cassy,",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3662.771069
+    }
+  },
+  "970870317658570832": {
+    "name": "Usuario_970870317658570832",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3660.407086,
+      "2025-08-03": 3579.04552
+    },
+    "milestone_2h_completed": true
+  },
+  "754905258379051120": {
+    "name": "Mayronrasta",
+    "total_time": 7244.0849180000005,
+    "sessions": [
+      {
+        "start": "2025-08-02T22:01:38.496041",
+        "end": "2025-08-02T23:02:04.432551",
+        "duration": 3625.936498,
+        "date": "2025-08-02"
+      },
+      {
+        "start": "2025-08-02T23:06:30.425078",
+        "end": "2025-08-03T00:00:48.573518",
+        "duration": 3258.14842,
+        "date": "2025-08-03"
+      }
+    ],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "last_start": "2025-08-02T23:06:30.425078",
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3985.936498,
+      "2025-08-03": 3258.14842
+    },
+    "milestone_2h_completed": true
+  },
+  "1097681737380810753": {
+    "name": "Usuario_1097681737380810753",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3608.042092,
+      "2025-08-03": 3634.282809
+    },
+    "milestone_2h_completed": true
+  },
+  "731581668896407594": {
+    "name": "Usuario_731581668896407594",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3644.490424,
+      "2025-08-03": 3581.745196
+    },
+    "milestone_1h_completed": true,
+    "milestone_2h_completed": true
+  },
+  "411303041078263819": {
+    "name": "Usuario_411303041078263819",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 3627.65866
+    },
+    "milestone_1h_completed": true
+  },
+  "1376631762486169732": {
+    "name": "Usuario_1376631762486169732",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3613.499531
+    }
+  },
+  "1043164915512397834": {
+    "name": "Usuario_1043164915512397834",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3653.10751
+    }
+  },
+  "907155291882283008": {
+    "name": "Usuario_907155291882283008",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3627.310023
+    }
+  },
+  "711051017600368680": {
+    "name": "Usuario_711051017600368680",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3611.13386
+    }
+  },
+  "1284268596264042568": {
+    "name": "Usuario_1284268596264042568",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "milestone_1h_completed": true,
+    "daily_times": {
+      "2025-08-02": 3618.049247
+    }
+  },
+  "752741999085486150": {
+    "name": "Usuario_752741999085486150",
+    "total_time": 0,
+    "sessions": [],
+    "is_active": false,
+    "is_paused": false,
+    "pause_count": 0,
+    "notified_milestones": [],
+    "milestone_completed": false,
+    "is_pre_registered": false,
+    "daily_times": {
+      "2025-08-02": 1009.637988
+    }
+  }
+}
